@@ -1,1 +1,2 @@
 - Solution LesBases
+- Pour lancer : dotnet run
